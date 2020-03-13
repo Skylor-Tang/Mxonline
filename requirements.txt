@@ -1,0 +1,10 @@
+redis
+django-simple-captcha
+six
+httplib2
+requests
+django==2.2
+mysqlclient
+pillow
+django-pure-pagination
+
