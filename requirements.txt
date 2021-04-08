@@ -3,7 +3,7 @@ django-simple-captcha
 six
 httplib2
 requests
-django==2.2
+django==2.2.20
 mysqlclient
 pillow
 django-pure-pagination
